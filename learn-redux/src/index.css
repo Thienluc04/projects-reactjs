@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    padding: 20px;
+    font-family: "DM sans", sans-serif;
+  }
+  input {
+    outline: none;
+  }
+}
